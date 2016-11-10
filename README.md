@@ -1,2 +1,2 @@
 # wscraper
-Simple Ruby web scaper
+Simple Ruby web scraper
